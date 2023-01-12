@@ -1,0 +1,32 @@
+
+.div1 {
+    width: 400px;
+    height: 400px;
+    background-image: url("images.jpeg");
+    color: white;
+    background-repeat: no-repeat;
+}
+
+.div2 {
+    width: 400px;
+    height: 400px;
+    background-image: url("images.jpeg");
+    color: white;
+       background-repeat: repeat-y;
+}
+
+.div3 {
+    width: 400px;
+    height: 400px;
+    background-image: url("images.jpeg");
+    color: white;
+       background-repeat: repeat-x;
+}
+
+.div4 {
+    width: 400px;
+    height: 400px;
+    background-image: url("images.jpeg");
+    color: white;
+
+}
