@@ -1,0 +1,36 @@
+/* not valid */
+._my.div {
+
+}
+
+/* not valid */
+.-my.div {
+
+}
+/* not valid */
+.12my.div {
+
+}
+
+/* not valid */
+.%my.div {
+
+}
+/* not valid */
+.@mydiv{
+
+}
+/* not valid */
+.my@div{
+
+}
+
+/* not valid */
+._my78div {
+
+}
+
+
+.div {
+
+}
